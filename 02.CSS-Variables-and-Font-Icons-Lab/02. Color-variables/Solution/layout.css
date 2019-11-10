@@ -1,0 +1,25 @@
+.main {
+    width: 60em;
+    margin: 0 auto;
+}
+
+section {
+    border: 2px solid var(--yellow-color);
+    border-radius: 5px;
+}
+
+section ul {
+    color: var(--primary-color);
+    display: flex;
+    justify-content: space-between;
+}
+
+section ul li button {
+    font-weight: 900;
+    font-size: 0.8em;
+    border: none;
+    color: var(--white-color);
+    padding: 1em 1.5em;
+    background-color: var(--yellow-color);
+    border-radius: 5px;
+}

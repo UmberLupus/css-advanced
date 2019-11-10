@@ -1,0 +1,14 @@
+@import url('./layout.css');
+@import url('./variables.css');
+
+header {
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--ps-serif);
+}
+
+body {
+    font-family: var(--pt-sans);
+}
